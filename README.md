@@ -1,1 +1,2 @@
-# opencv_img
+#Python
+# OpenCV: Open Source Computer Vision Library
